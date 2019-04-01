@@ -1,6 +1,6 @@
 <?php
 
-use app\models\helpers\{MainHelper as MH, ShortUrlHelper as SUH};
+use app\helpers\{ShortUrlHelper as SUH, MainHelper as MH};
 use yii\helpers\{Html, Url};
 use app\models\search\ShortUrlSearch;
 use app\widgets\ClipboardJsWidget;

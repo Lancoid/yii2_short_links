@@ -1,11 +1,11 @@
 <?php
 
-namespace app\models\helpers;
+namespace app\helpers;
 
 /**
  * Class ShortUrlLogHelper
  *
- * @package app\models\helpers
+ * @package app\helpers
  */
 class ShortUrlLogHelper
 {
@@ -20,7 +20,7 @@ class ShortUrlLogHelper
             'id' => 'ID',
             'short_url_id' => 'ID short url',
             'user_platform' => 'Platform',
-            'user_agent' => 'Agent',
+            'user_agent' => 'Browser',
             'user_refer' => 'Refer',
             'user_ip' => 'Ip',
             'user_country' => 'Country',

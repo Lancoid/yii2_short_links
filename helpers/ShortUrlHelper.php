@@ -1,11 +1,11 @@
 <?php
 
-namespace app\models\helpers;
+namespace app\helpers;
 
 /**
  * Class ShortUrlHelper
  *
- * @package app\models\helpers
+ * @package app\helpers
  */
 class ShortUrlHelper
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace app\models\helpers;
+namespace app\helpers;
 
 /**
  * Class MainHelper
  *
- * @package app\models\helpers
+ * @package app\helpers
  */
 class MainHelper
 {

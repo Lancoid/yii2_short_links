@@ -1,6 +1,6 @@
 <?php
 
-use app\models\helpers\ShortUrlLogHelper as SULH;
+use app\helpers\ShortUrlLogHelper as SULH;
 use scotthuangzl\googlechart\GoogleChart;
 use app\models\ShortUrl;
 

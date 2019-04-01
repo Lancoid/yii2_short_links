@@ -3,8 +3,8 @@
 namespace app\models;
 
 use aracoool\uuid\{Uuid, UuidBehavior, UuidValidator};
-use app\models\helpers\{ErrorHelper, UserHelper};
 use yii\base\{Exception, NotSupportedException};
+use app\helpers\{ErrorHelper, UserHelper};
 use yii\behaviors\TimestampBehavior;
 use yii\web\IdentityInterface;
 use yii\db\ActiveRecord;

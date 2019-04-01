@@ -2,8 +2,8 @@
 
 namespace app\models;
 
-use app\models\helpers\{ErrorHelper, ShortUrlLogHelper};
 use aracoool\uuid\{Uuid, UuidBehavior, UuidValidator};
+use app\helpers\{ErrorHelper, ShortUrlLogHelper};
 use yii\db\{ActiveRecord, ActiveQuery};
 use yii\behaviors\TimestampBehavior;
 

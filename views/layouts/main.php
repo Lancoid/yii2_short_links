@@ -1,8 +1,8 @@
 <?php
 
 use yii\bootstrap\{Nav, NavBar};
-use app\models\helpers\MainHelper;
 use yii\widgets\Breadcrumbs;
+use app\helpers\MainHelper;
 use app\assets\AppAsset;
 use app\widgets\Alert;
 use yii\helpers\Html;

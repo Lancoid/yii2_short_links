@@ -3,8 +3,8 @@
 namespace app\models;
 
 use aracoool\uuid\{Uuid, UuidBehavior, UuidValidator};
-use app\models\helpers\{ShortUrlHelper, ErrorHelper};
 use yii\web\{HttpException, NotFoundHttpException};
+use app\helpers\{ErrorHelper, ShortUrlHelper};
 use yii\db\{ActiveRecord, ActiveQuery};
 use yii\behaviors\TimestampBehavior;
 use yii\helpers\BaseArrayHelper;

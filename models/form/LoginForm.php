@@ -2,7 +2,7 @@
 
 namespace app\models\form;
 
-use app\models\helpers\ErrorHelper;
+use app\helpers\ErrorHelper;
 use app\models\User;
 use yii\base\Model;
 use Yii;

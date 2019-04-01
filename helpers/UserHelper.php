@@ -1,13 +1,13 @@
 <?php
 
-namespace app\models\helpers;
+namespace app\helpers;
 
 use app\models\User;
 
 /**
  * Class UserHelper
  *
- * @package app\models\helpers
+ * @package app\helpers
  */
 class UserHelper
 {
